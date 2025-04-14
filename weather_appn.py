@@ -5,7 +5,7 @@ from datetime import datetime
 import json  
 
 # API Key
-user_api = '9fd9bfa8a48d451eb8388d105d131e30'
+user_api = ''
 
 # GUI Setup
 app = Tk()
